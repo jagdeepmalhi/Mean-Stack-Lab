@@ -1,0 +1,17 @@
+{
+  "name": "expressproject",
+  "version": "1.0.0",
+  "description": "Demo MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Gurlivleen Singh Kainth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18"
+  }
+}
