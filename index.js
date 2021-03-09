@@ -4,7 +4,9 @@ const app = express();
 const port = 8000;
 
 // Importing static files to express app
-app.use(express.static(path.join(__dirname, "/node_modules/bootstrap/dist")));
+app.use('/css', express.static(path.join(__dirname, "/node_modules/bootstrap/dist/css")));
+app.use('/js', express.static(path.join(__dirname, "/node_modules/bootstrap/dist/js")));
+app.use('/js', express.static(path.join(__dirname, "/node_modules/jquery/dist/js")));
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, "views/index.html"));
