@@ -16,7 +16,9 @@
   "author": "JS",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "express": "^4.17.1",
+    "jquery": "^3.6.0",
     "mongoose": "^5.11.18"
   }
 }
