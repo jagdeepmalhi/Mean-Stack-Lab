@@ -1,0 +1,84 @@
+    1  node --version
+    2  sudo apt install nodejs
+    3  node --version
+    4  npm --version
+    5  sudo apt install npm
+    6  ls
+    7  npm --version
+    8  ls
+    9  mkdir mean-demo
+   10  ls
+   11  cd mean-demo/
+   12  ls
+   13  npm init
+   14  ls
+   15  vim package.json 
+   16  sudo apt install vim
+   17  npm install express --save
+   18  ls
+   19  vim server.js
+   20  npm start
+   21  node server.js
+   22  npm start
+   23  node server.js
+   24  vim server.js 
+   25  npm start
+   26  vim server.js 
+   27  npm start
+   28  npm install --save mongoose
+   29  npm install
+   30  npm install --save mongoose
+   31  npm install --save mongodb  
+   32  vim server.js 
+   33  node --version
+   34  npm --version
+   35  express --version
+   36  vim server.js 
+   37  ls
+   38  npm install
+   39  npm install --save mongoose
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd mean-demo/
+   44  ls
+   45  npm start
+   46  cd mean-demo/
+   47  ls
+   48  npm --version
+   49  npm install
+   50  npm install --save mongoose
+   51  ping google.com
+   52  cd mean-demo/
+   53  ls
+   54  npm install
+   55  npm install --save mongoose
+   56  ls
+   57  ping google.com
+   58  sudo apt-get install geany
+   59  sudo apt-get update
+   60  sudo apt-get install geany
+   61  sudo apt-get install vim
+   62  ls
+   63  vim index.js 
+   64  mv  home.js home.html
+   65  ls
+   66  vim index.html
+   67  vim home.html 
+   68  vim index.js 
+   69  sl
+   70  ls
+   71  ls -l
+   72  ls -la
+   73  cd node_modules/
+   74  ls
+   75  vim ..
+   76  cd ..
+   77  npm i bootstrap jquery --save
+   78  cd node_modules/
+   79  ls
+   80  cd bootstrap/
+   81  ls
+   82  cd ..
+   83  history
+   84  history > file
